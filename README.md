@@ -16,23 +16,23 @@
 -This is the picture of Donald Trump that I've used for training the model:
 
 <p>
-<img src="faces/donald%20trump.jpg" width="600" height="50">
+<img src="faces/donald%20trump.jpg" width="600" height="800">
 </p>
 
 -And this is the result of the testing:
 
 <p>
-<img src="2.PNG" width="600" height="50">
+<img src="2.PNG" width="600" height="800">
 </p>
 
 -This is another testing for the Elon Musk's photo. Trained photo:
 
 <p>
-<img src="faces/elon%20musk.jpg" width="600" height="50">
+<img src="faces/elon%20musk.jpg" width="600" height="800">
 </p>
 
 -And the result:
 
 <p>
-<img src="1.PNG" width="600" height="50">
+<img src="1.PNG" width="600" height="800">
 </p>
