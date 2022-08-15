@@ -15,16 +15,24 @@
 
 -This is the picture of Donald Trump that I've used for training the model:
 
-![](faces/donald%20trump.jpg)
+<p>
+<img src="faces/donald%20trump.jpg" width="600" height="50">
+</p>
 
 -And this is the result of the testing:
 
-![](2.PNG)
+<p>
+<img src="2.PNG" width="600" height="50">
+</p>
 
 -This is another testing for the Elon Musk's photo. Trained photo:
 
-![](faces/elon%20musk.jpg)
+<p>
+<img src="faces/elon%20musk.jpg" width="600" height="50">
+</p>
 
 -And the result:
 
-![](1.PNG)
+<p>
+<img src="1.PNG" width="600" height="50">
+</p>
